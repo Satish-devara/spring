@@ -1,0 +1,6 @@
+# Ignore the entire Tomcat server directory
+apache-tomcat-10.1.56/
+apache-tomcat-*/
+
+# Ignore OS-specific files
+.DS_Storegit init

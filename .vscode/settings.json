@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/jimin/Downloads/mysql-connector-j-9.7.0/mysql-connector-j-9.7.0.jar",
+        "webContent/WEB-INF/**/*.jar"
+    ],
+    "java.project.outputPath": "webContent/WEB-INF/classes"
+}
