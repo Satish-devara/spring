@@ -17,7 +17,7 @@ import jakarta.servlet.http.HttpServletResponse;
 public class RegisterServlet extends HttpServlet{
     private final String URL = "jdbc:mysql://localhost:3306/java";
     private final String USER = "root";
-    private final String PASSWORD = "Satish@3002";
+    private final String PASSWORD = "Satish@30000002";
 
 
 
